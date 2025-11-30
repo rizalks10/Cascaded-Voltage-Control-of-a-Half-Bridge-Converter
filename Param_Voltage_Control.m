@@ -25,10 +25,3 @@ Outer_Ki = alfa*wcv*Outer_Kp;
 %Inner Control
 Inner_Kp = wcc*L;
 Inner_Ki = alfa*wcc*Inner_Kp;
-
-
-
-
-
-
-
